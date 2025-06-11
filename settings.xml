@@ -3,7 +3,7 @@
     <server>
       <id>jfrog-artifactory</id>
       <username>ganeshreddy64987610@gmail.com</username>
-      <password>${PASS_JFROG}</password>
+      <password>${env.PASS_JFROG}</password>
     </server>
   </servers>
 </settings>
