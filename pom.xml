@@ -57,12 +57,12 @@
         <repository>
             <id>jfrog-artifactory</id>
             <name>JFrog Release Repo</name>
-	    <url>https://trialuu1981.jfrog.io/artifactory/repo3/</url>
+	    <url>https://trialuu1981.jfrog.io/artifactory/repo3</url>
         </repository>
         <snapshotRepository>
             <id>jfrog-artifactory</id>
             <name>JFrog Snapshot Repo</name>
-	    <url>https://trialuu1981.jfrog.io/artifactory/repo3/</url>
+	    <url>https://trialuu1981.jfrog.io/artifactory/repo3</url>
         </snapshotRepository>
     </distributionManagement>
 
