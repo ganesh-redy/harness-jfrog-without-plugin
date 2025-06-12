@@ -72,6 +72,6 @@
       copy:
         content: "This is xfs partition.\n"
         dest: /data2/file2.txt
-   - name: show lsblk
-     shell: lsblk -T > /dev/pts/1
-     
+
+    - name: Show lsblk
+      shell: lsblk -T > /dev/pts/1
